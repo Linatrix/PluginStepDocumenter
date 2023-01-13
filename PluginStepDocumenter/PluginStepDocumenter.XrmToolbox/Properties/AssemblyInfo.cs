@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PluginStepDocumenter.XrmToolbox")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("PluginStepDocumenter")]
+[assembly: AssemblyDescription("Plugin Step Documenter")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PluginStepDocumenter.XrmToolbox")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
+[assembly: AssemblyCompany("Hayden Russell")]
+[assembly: AssemblyProduct("PluginStepDocumenter")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

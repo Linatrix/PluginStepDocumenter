@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PluginStepDocumenter.Library
 {
-    internal class StepQueries
+    public static class StepQueries
     {
         public static QueryExpression GetPluginAssemblies()
         {
